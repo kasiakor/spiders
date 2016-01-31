@@ -1,2 +1,0 @@
-# spiders
-spiders project
